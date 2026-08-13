@@ -7,6 +7,7 @@ import { B2BCommercial } from './components/B2BCommercial';
 import { GiftBuilder } from './components/GiftBuilder';
 import { CoffeeQuiz } from './components/CoffeeQuiz';
 import { LogisticsBar } from './components/LogisticsBar';
+import { DisqusForum } from './components/DisqusForum';
 import { CartDrawer } from './components/CartDrawer';
 import { WholesaleModal } from './components/WholesaleModal';
 import { BlueprintModal } from './components/BlueprintModal';
@@ -114,6 +115,9 @@ export default function App() {
 
         {/* SINGAPORE LOGISTICS & SFA TRANSPARENCY BAR */}
         <LogisticsBar />
+
+        {/* DISQUS DISCUSSION FORUM */}
+        <DisqusForum />
       </main>
 
       {/* FOOTER */}

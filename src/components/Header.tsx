@@ -126,6 +126,9 @@ export const Header: React.FC<HeaderProps> = ({
           <a href="#logistics" className="hover:text-[#F5C28B] transition-colors">
             Logistics & SFA
           </a>
+          <a href="#community-forum" className="hover:text-[#F5C28B] transition-colors">
+            Forum
+          </a>
         </nav>
 
         {/* Actions (Wholesale Inquiry & Cart Button) */}
