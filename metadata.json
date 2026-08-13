@@ -1,0 +1,6 @@
+{
+  "name": "Red Dot Roastworks",
+  "description": "Singapore's premier specialty coffee platform for local roasts, B2B cafe wholesale, machine rentals, and B2C custom gift sets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
